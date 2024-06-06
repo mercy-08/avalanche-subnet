@@ -12,8 +12,8 @@ The repository includes two Solidity contracts:
 
 ## Contract Addresses
 
-- DragonToken: [0x5aa01B3b5877255cE50cc55e8986a7a5fe29C70e]
-- Vault: [0x5DB9A7629912EBF95876228C24A848de0bfB43A9]
+- ERC20 token: [0x52C84043CD9c865236f11d9Fc9F56aa003c1f922]
+- Vault: [0x17aB05351fC94a1a67Bf3f56DdbB941aE6c63E25]
 
 ## Getting Started
 
@@ -40,9 +40,9 @@ After deploying the contracts, you can interact with them as follows:
   
 - **Vault**: This contract allows users to deposit ERC20 tokens into the vault in exchange for shares. Shares represent ownership of the deposited tokens and can be redeemed for tokens at any time. Users can deposit tokens into the vault and withdraw them as needed.
 
-## Authors
+## Author
 
-[Omemgboji Emmanuel](mailto:omemgbojiemmanuel)
+[Mercy](mailto:mercy)
 
 ## License
 
